@@ -4,9 +4,12 @@
 
 ## 🔗 Mes projets
 
-### 🖥️ TP Développement Web
-- **Lien** : [Voir le projet](https://github.com/AymenB001/tp-web)
-- **Description** : Application web avec base de données, interface responsive.
+### 🖥️ Introduction en C 
+- **Lien** : [Voir le projet](https://github.com/AymenB001/intro-en-C)
+- **Description** : Introduction en language C en répondant à 4 questions.
+
+### 🖥️ Utilisation et administration des systèmes informatiques
+-  **Lien** : [Voir le projet](https://github.com/AymenB001/Utilisation-et-administration-des-syst-mes-informatiques)
 
 ### 📊 Statistiques en OCaml
 - **Lien** : [Voir le projet](https://github.com/tonpseudo/tp-statistiques)
