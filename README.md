@@ -15,6 +15,3 @@
 - **Lien** : [Voir le projet]([https://github.com/tonpseudo/tp-statistiques](https://github.com/AymenB001/Missions-lunaires-en-C-)
 - **Description** : Programme en C++ pour calculs de distances entre vecteurs
 
-### 🛠 Génie logiciel
-- **Lien** : [Voir le projet](https://github.com/tonpseudo/tp-genie-logiciel)
-- **Description** : Travail en équipe avec diagrammes UML, SCRUM, et versionnement.
