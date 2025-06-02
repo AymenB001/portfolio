@@ -11,9 +11,9 @@
 ### 🖥️ Utilisation et administration des systèmes informatiques
 -  **Lien** : [Voir le projet](https://github.com/AymenB001/Utilisation-et-administration-des-syst-mes-informatiques)
 
-### 📊 Statistiques en OCaml
-- **Lien** : [Voir le projet](https://github.com/tonpseudo/tp-statistiques)
-- **Description** : Programme en OCaml pour calculer moyenne et écart type.
+### 🖥️ Missions linaires en C++ 
+- **Lien** : [Voir le projet]([https://github.com/tonpseudo/tp-statistiques](https://github.com/AymenB001/Missions-lunaires-en-C-)
+- **Description** : Programme en C++ pour calculs de distances entre vecteurs
 
 ### 🛠 Génie logiciel
 - **Lien** : [Voir le projet](https://github.com/tonpseudo/tp-genie-logiciel)
