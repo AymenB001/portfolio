@@ -12,6 +12,6 @@
 -  **Lien** : [Voir le projet](https://github.com/AymenB001/Utilisation-et-administration-des-syst-mes-informatiques)
 
 ### 🖥️ Missions linaires en C++ 
-- **Lien** : [Voir le projet]([https://github.com/tonpseudo/tp-statistiques](https://github.com/AymenB001/Missions-lunaires-en-C-)
+- **Lien** : [Voir le projet](https://github.com/AymenB001/Missions-lunaires-en-C-)
 - **Description** : Programme en C++ pour calculs de distances entre vecteurs
 
